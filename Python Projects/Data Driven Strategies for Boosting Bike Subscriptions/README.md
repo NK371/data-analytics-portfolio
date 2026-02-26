@@ -1,7 +1,7 @@
 # Data-Driven-Strategies-for-Boosting-Bike-Subscriptions
 
 ## 1 Introduction
-In this chapter the analysis process is shown using each tool. From importing the data in Excel, transforming it in Python and finally visualizing it in Tableau to find patterns and get insights of the data. 
+In this chapter the analysis process is shown using each tool. From importing the data in Excel, transforming it in Python and finally visualizing it in Power BI to find patterns and get insights of the data. 
 ## 2a Importing Data into Excel
 
 ![image](https://github.com/user-attachments/assets/1e41bf61-b33a-4559-bc7c-453dca5e005e)
@@ -156,9 +156,9 @@ This line used to save the cleaned dataset separately for further analysis.
 
 
 
-## 4a Visualizing the Data in Tableau
-Tableau is software for data visualization and analytics. It allows user to create interactive and visually appealing charts, graphs and dashboards, and maps without requiring extensive programming skills.
-The reason to use Tableau for this project because it doesn’t require much technical knowledge. The charts and graphs in Tableau make it easy to notice pattern, trends. It also integrates well with other software used in this project such as excel and python. 
+## 4a Visualizing the Data in Power BI
+Power BI is software for data visualization and analytics. It allows user to create interactive and visually appealing charts, graphs and dashboards, and maps without requiring extensive programming skills.
+The reason to use Power BI for this project because it doesn’t require much technical knowledge. The charts and graphs in Power BI make it easy to notice pattern, trends. It also integrates well with other software used in this project such as excel and python. 
 
 ## 4b Bike Type Preference of Members and Casual Riders
 
@@ -176,7 +176,8 @@ As for the casual riders, 20.34% of them prefer classic bikes, 15.90% prefer ele
 ## 4c Month Wise Trips of Member and Casual Riders
 
 
-![image](https://github.com/user-attachments/assets/fce63ae3-efdb-4337-a82c-732a740de4db)
+<img width="1399" height="809" alt="image" src="https://github.com/user-attachments/assets/512576c9-18f7-49cf-bb5c-ab66c37937a9" />
+
 
 
 Both Casual and Member riders prefer to travel the most during the summer season. The number of trips decline as the winter season approaches. This is likely due to the weather conditions during winter season is not suitable to ride bicycle. 
@@ -195,7 +196,8 @@ The difference here between casual and member riders is that casual rider’s de
 
 ## 4d Day wise Trips of Member and Casual Riders
 
-![image](https://github.com/user-attachments/assets/ec668001-ef3c-46e5-8b9b-75f6e3c40f95)
+<img width="1399" height="809" alt="image" src="https://github.com/user-attachments/assets/7fab8b2f-0a5a-4c97-bba9-c62c8bfd9d8b" />
+
 
  
 
@@ -216,7 +218,8 @@ The above chart shows the trip distribution across the weekdays. Casual riders p
 
 ## 4e Hour wise Trips of Member and Casual Riders
 
-![image](https://github.com/user-attachments/assets/ed932d93-9e87-4e02-8cd8-badbe3467cd7)
+<img width="1399" height="809" alt="image" src="https://github.com/user-attachments/assets/c25b17db-9ee5-40dd-a461-eb3ece02ed81" />
+
 
  
 
@@ -237,7 +240,8 @@ The above line chart shows the trip distribution across the day. Member riders t
 ## 4f Ride Length of Member and Casual Riders
 
 
-![image](https://github.com/user-attachments/assets/19d4d70f-33d0-43e7-8954-0e7d98bf1e43)
+<img width="1399" height="809" alt="image" src="https://github.com/user-attachments/assets/bf5a7d19-c1dd-4c74-bfc2-15f34dc61727" />
+
 
 
 This line chart shows the above duration of ride for both member and casual riders. As we can see, member riders most of the travel for about 4 minutes, while the casual members use the bike services for about 7 minutes. Casual riders travel for longer on an average as compared to member riders.
@@ -245,6 +249,7 @@ This line chart shows the above duration of ride for both member and casual ride
 
 
 
+<img width="1399" height="809" alt="image" src="https://github.com/user-attachments/assets/234aa7aa-a5a0-4e8a-b625-70839332a255" />
 
 
 
