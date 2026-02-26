@@ -162,9 +162,8 @@ The reason to use Tableau for this project because it doesn’t require much tec
 
 ## 4b Bike Type Preference of Members and Casual Riders
 
-![image](https://github.com/user-attachments/assets/a2497f60-775e-42ec-9e93-2c5ece2f4d4b)
+<img width="1399" height="809" alt="image" src="https://github.com/user-attachments/assets/ec9e2826-11b0-42b0-a364-4fc32c96d759" />
 
- 
 
 Members made up 59.76 % of total trips, whereas casual riders account for 40.24% of total trips. Both member and casual riders prefer classic bikes over electric bikes. 
 39.11% of the member rider prefer classic bikes and rest of the 20.66% prefer electric bike. No member rider use docked bike.
